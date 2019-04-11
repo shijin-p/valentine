@@ -37,7 +37,21 @@ captures/
 *.iml
 .idea/
 
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Freeline
+freeline.py
+freeline/
+freeline_project_description.json
+
+# Keystore files
+*.jks
+
 # Extras
 .DS_Store
 .externalNativeBuild
+Thumbs.db
+
+
 
